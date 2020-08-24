@@ -1,0 +1,22 @@
+{
+    "name": "tailwindcss-only-child",
+    "version": "1.0.0",
+    "description": "Adds the only-child pseudo-class variant to Tailwindcss",
+    "main": "index.js",
+    "keywords": [
+        "tailwindcss",
+        "only-child",
+        "only",
+        "child"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MaximVanhove/tailwindcss-only-child.git"
+    },
+    "bugs": {
+        "url": "https://github.com/MaximVanhove/tailwindcss-only-child/issues"
+    },
+    "homepage": "https://github.com/MaximVanhove/tailwindcss-only-child#readme",
+    "author": "Maxim Vanhove",
+    "license": "MIT"
+}
